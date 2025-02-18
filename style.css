@@ -7,14 +7,6 @@ body {
     background-color: #f5f6f8;
 }
 
-/* Make the nav responsive */
-@media (max-width: 768px) {
-    header {
-        flex-direction: column;
-        text-align: center;
-    }
-}
-
 /* Header */
 header {
     background-color: white;
